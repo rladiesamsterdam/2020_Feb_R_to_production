@@ -1,0 +1,12 @@
+VAR	DESC
+DD	Wind Direction
+FH	Wind Speed
+FX	Wind Gust
+T	Temperature
+TD	Dewpoint
+Q	Global Irradiation
+RH	Precipitation
+P	Pressure
+VV	Horizontal View
+N	Cloud Coverage
+U	Relative Humidity
